@@ -26,13 +26,13 @@ Gain practical experience through coding assignments and projects
 Prepare students for further studies in Java or related fields
 Syllabus:
 
-Week 1: Introduction to Java
+ # Introduction to Java
 
 Overview of Java programming language
 Setting up the Java development environment (IDE installation, JDK configuration)
 Writing and executing your first Java program
-Week 2: Java Basics
 
+# Java Basics
 Variables and data types
 Operators and expressions
 Control flow statements (if-else, switch-case, loops)
@@ -41,33 +41,39 @@ Week 3: Object-Oriented Programming (OOP) Principles
 Introduction to object-oriented programming
 Classes and objects
 Constructors and methods
-Week 4: Encapsulation and Inheritance
+
+# Encapsulation and Inheritance
 
 Access modifiers (public, private, protected)
 Encapsulation and data hiding
 Inheritance and polymorphism
-Week 5: Abstraction and Interfaces
 
+
+# Abstraction and Interfaces
 Abstract classes and methods
 Interfaces and their implementation
 Using interfaces for multiple inheritance
-Week 6: Arrays and Collections
+
+
+# Arrays and Collections
 
 Arrays in Java
 Introduction to collections framework
 Working with ArrayList, LinkedList, and HashMap
-Week 7: Exception Handling
 
+# Exception Handling
 Understanding exceptions in Java
 Using try-catch blocks
 Handling checked and unchecked exceptions
-Week 8: File Handling and Input/Output Streams
+
+
+# File Handling and Input/Output Streams
 
 Reading from and writing to files
 Using BufferedReader and BufferedWriter
 Working with input/output streams
 
-Java Collection
+# Java Collection
 List
 Set
 Map
